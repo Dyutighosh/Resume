@@ -1,6 +1,6 @@
 (() => {
   /* Replace the empty value with the site code selected in GoatCounter. */
-  const siteCode = '';
+  const siteCode = 'dyutighosh';
   const localHosts = new Set(['localhost', '127.0.0.1', '::1']);
 
   if (
